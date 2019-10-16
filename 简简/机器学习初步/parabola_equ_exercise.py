@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/10/16 19:22
-# @Author : XXX
+# @Author : Janessefor
 # @Site : 
 # @File : parabola_equ_exercise.py
 # @Software: PyCharm
